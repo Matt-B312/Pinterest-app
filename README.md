@@ -25,4 +25,4 @@ This is a Pinterest Clone that I did for fun
 
 ## Getting Started
 
-Link for the site is https://https://pinterest-app-chi.vercel.app/
+Link for the site is https://pinterest-app-chi.vercel.app/
