@@ -9,7 +9,7 @@ This is a Pinterest Clone that I did for fun
 
 ## Screen Shots
 
-* ![alt text](https://i.imgur.com/EW1hzSy.jpg)
+* ![Imgur](https://i.imgur.com/EW1hzSy.jpg)
 
 
 
